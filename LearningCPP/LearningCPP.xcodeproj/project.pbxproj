@@ -61,7 +61,6 @@
 			isa = PBXGroup;
 			children = (
 				6E13BE28222D8CB0005CEBE2 /* Chapter2 */,
-				6E13BE1D222CEB46005CEBE2 /* main.cpp */,
 				6E13BE25222CF420005CEBE2 /* test.cpp */,
 				6E13BE26222CF420005CEBE2 /* test.hpp */,
 			);
@@ -71,6 +70,7 @@
 		6E13BE28222D8CB0005CEBE2 /* Chapter2 */ = {
 			isa = PBXGroup;
 			children = (
+				6E13BE1D222CEB46005CEBE2 /* main.cpp */,
 			);
 			path = Chapter2;
 			sourceTree = "<group>";
